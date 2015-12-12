@@ -1,0 +1,41 @@
+### Visual Studio/MonoDevelop generated solution and project files
+*.unityproj
+*.csproj
+*.booproj
+*.svd
+*.suo
+*.sln*
+*.tmp
+*.user
+*.userprefs
+*.pidb
+[Ee]xported[Oo]bj/
+.vs/
+*.orig
+*.app
+*.exe
+*.*_data
+*.[od]
+
+### Unity generated
+/[Bb]uild/
+/[Ll]ibrary/
+/[Oo]bj/
+/[Tt]emp/
+*.pidb.meta
+sysinfo.txt
+*.stackdump
+
+### OS junk files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+
+### Convenience
+*.ignore
+/[Ii]gnore/
